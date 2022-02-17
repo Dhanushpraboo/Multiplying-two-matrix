@@ -34,6 +34,6 @@ print("Product of two arrays is:",product)
 ~~~
 
 ## OUTPUT:
-![multiply two array](mul.png)
+![multiply two array](Mularray.png)
 ## RESULT:
 
