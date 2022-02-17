@@ -36,4 +36,5 @@ print("Product of two arrays is:",product)
 ## OUTPUT:
 ![multiply two array](Mularray.png)
 ## RESULT:
+Thus,multiplying of two array is done using numpy
 
